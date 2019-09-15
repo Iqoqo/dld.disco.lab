@@ -15,7 +15,7 @@
     ```
 1. Run pytests inside the docker container.
     1. The docker does not include the source code, so we'll give it access to 
-    the root directory, and map everything to `/home/docelab/` 
+    the root directory, and map everything to `/home/codelab/` 
     inside the docker 
     ```{r, engine='bash', run_pytest}
     cd <project's root dir> 
