@@ -1,0 +1,17 @@
+new_vid.mp4
+interim.mp4
+disco.mp4
+videos/disco_short.mp4
+
+.DS_Store
+.Dockerfile.swp
+*.pyc
+
+tests/mesh*
+discofied/*
+
+perf/*.svg
+perf/*.log
+
+__pycache__/*
+tests/__pycache__/**
