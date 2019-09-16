@@ -8,8 +8,8 @@
 
 ## What you'll need to start
 ### Environment
-1) docker 
-2) This code
+1) Docker Desktop (www.docker.com)
+2) Download this code base. (git clone https://github.com/Iqoqo/dld.disco.lab)
 3) Follow lesson_1 to download and install the docker image containing everything you'll need
 
 
